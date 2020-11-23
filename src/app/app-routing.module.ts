@@ -5,7 +5,7 @@ import { ContactComponent } from './contact/contact.component';
 
 import { HomeComponent } from './home/home.component';
 import { SigninComponent } from './signin/signin.component';
-import { TermsconditionsComponent } from './termsconditions/termsconditions.component';
+import { TermsconditionsComponent } from './terms/termsconditions.component';
 
 
 const routes: Routes = [
